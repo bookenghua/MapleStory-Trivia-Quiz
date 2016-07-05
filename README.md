@@ -1,5 +1,5 @@
 # [IPND] Stage 2: MapleStory Trivia Quiz
-[IPND] Stage 2: Code your own quiz
+[IPND] Stage 2: Code Your Own Quiz
 
 ## Stage 2 Details
 In this stage, I used the Python programming language to build my own quiz. I used a fill-in-the blank style to create a quiz that can be used to ascertain how big of a MapleStory fan each player is.
